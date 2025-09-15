@@ -4,7 +4,6 @@ A classic Pac-Man game implementation in Java using Swing framework for graphica
 
 **#Game Overview**
 This Pac-Man implementation features all the core elements that made the original game an arcade legend:
-
 1. A maze with walls, pathways, and collectible dots
 2. Pac-Man character controlled by arrow keys
 3. our colored ghosts with basic AI movement patterns
