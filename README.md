@@ -43,7 +43,7 @@ Pac-Man moves at a constant speed of 8 pixels per frame (tileSize/4). The moveme
 1. Random direction changes upon wall collisions
 2. Special behavior at specific maze locations (particularly at row 9)
 3. Independent movement patterns
-4.4 Reset to starting positions after Pac-Man loses a life
+4. Reset to starting positions after Pac-Man loses a life
 
 
 **#Installation and Execution**
@@ -51,7 +51,7 @@ Pac-Man moves at a constant speed of 8 pixels per frame (tileSize/4). The moveme
 **Requirements**
 1. Java Development Kit (JDK) 8 or higher (VS Code, Eclipse or Intellij IDEA)
 2. Image resources in the same directory as class files:
-Basicallly download all the files provided here.
+**Basicallly download all the files provided here.**
 
 **Controls**
 
