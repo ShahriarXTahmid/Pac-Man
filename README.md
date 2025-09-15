@@ -54,10 +54,15 @@ Pac-Man moves at a constant speed of 8 pixels per frame (tileSize/4). The moveme
 Basicallly download all the files provided here.
 
 **Controls**
+
 *Arrow Keys:* Control Pac-Man's direction
+
 *P Key:* Pause the game
+
 *R Key:* Resume the game
+
 *Any Key after Game Over:* Restart the game
+
 
 
 
